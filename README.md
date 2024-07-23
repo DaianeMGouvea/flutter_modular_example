@@ -1,4 +1,4 @@
-# Projeto Modular Flutter
+# Projeto exemplo de como utilizar Flutter Modular
 
 Este projeto é um pequeno exemplo de como utilizar o poder do Flutter Modular para criar uma estrutura de aplicação escalável, fácil de manter e organizada. Seja você desenvolvendo um aplicativo pequeno ou um projeto complexo, o Flutter Modular ajuda a gerenciar dependências, rotas e módulos de maneira eficiente.
 
